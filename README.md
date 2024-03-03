@@ -1,9 +1,9 @@
 ### Hello!
 
 I'm professionally a python backend developer, however I a have a much wider spectrum of interests in software. I have the deepest love towards creating things that are visible and intuitively understandable. I want to work on something that is related to my daily life. For this reason in my free time I develop projects outside of my professional expertise, like 
-* a [mobile app](https://github.com/arekkulczycki/ursus_android_app) that organized my football team calendar, keeping track of participants of each event
-* a [website for playing Hex](https://github.com/arekkulczycki/hex-forest), my favourite board game, offering an option to play vs [my custom AI](https://github.com/arekkulczycki/hackable-engine)
-* and finally my latest sin - a videogame in Godot using Kotlin (as if I couldn't ever use the default)
+* (2020) a [mobile app](https://github.com/arekkulczycki/ursus_android_app) that organized my football team calendar, keeping track of participants of each event
+* (2021-currently) a [website for playing Hex](https://github.com/arekkulczycki/hex-forest), my favourite board game, offering an option to play vs [my custom AI](https://github.com/arekkulczycki/hackable-engine)
+* (2024-currently) and finally my latest sin - a videogame in Godot using Kotlin (as if I couldn't ever use the default)
 
 ### About me
 
